@@ -13,3 +13,6 @@ Version 100.2
 Version 100.3
 -made branch 501-0
 -personalized the page more with navbar expanded with content on page
+
+Version 100.4
+-Merged in files from branch 501-0 to master branch
